@@ -1,3 +1,11 @@
+## About This Project
+
+The original project was created by [CongNguyen2605](https://github.com/CongNguyen2605).  
+I am using this repository as a **practice environment to implement and experiment with Jenkins CI/CD pipelines**.
+
+All GitLab CI/CD configurations, workflows, and related improvements in this repository were **developed by me** for learning purposes.
+
+> **Note:** Credits for the original source code and project structure belong to the original author.
 # warehouse-service
 
 ## Dependencies
