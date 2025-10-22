@@ -1,6 +1,6 @@
 import jenkins.model.*
 import hudson.FilePath
-backupPath = "/datas/shoeshop/backups/"
+backupPath = "/datas/QuanLyTuyenDung/backups/"
 def node = Jenkins.getInstance().getNode(server)
 def remoteDir = new FilePath(node.getChannel(), "${backupPath}")
 
